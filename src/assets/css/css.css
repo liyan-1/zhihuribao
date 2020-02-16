@@ -1,0 +1,11 @@
+*{margin: 0;padding: 0;}
+img{display:block;}
+#app{font-size:16px;}
+.main{background-color:#fff;width:90%;margin:0 auto;}
+a{color:#333;text-decoration:none;}
+.head{overflow: hidden;padding:1rem 0;}
+.head h1,.head h2{float:left;}
+.head h1{font-weight:500;line-height:3rem;padding-left:1rem;font-size:1.8rem;border-left:1px solid #CBCBCB;}
+.head h2{font-weight:normal;text-align:center;font-size:1.4rem;padding-right:1rem;}
+.head h2 span{display:block;font-size:1rem;}
+.head p img{float:right;border-radius:3rem;}
